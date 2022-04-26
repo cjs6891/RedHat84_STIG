@@ -1,0 +1,12 @@
+ansible-2.9.27-1.el8ae.noarch.rpm
+python3-babel-2.5.1-7.el8.noarch.rpm
+python3-cffi-1.11.5-5.el8.x86_64.rpm
+python3-cryptography-3.2.1-5.el8.x86_64.rpm
+python3-jinja2-2.10.1-3.el8.noarch.rpm
+python3-jmespath-0.9.0-11.el8.noarch.rpm
+python3-markupsafe-0.23-19.el8.x86_64.rpm
+python3-ply-3.9-9.el8.noarch.rpm
+python3-pycparser-2.14-14.el8.noarch.rpm
+python3-pytz-2017.2-9.el8.noarch.rpm
+python3-pyyaml-3.12-12.el8.x86_64.rpm
+sshpass-1.06-3.el8ae.x86_64.rpm
